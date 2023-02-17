@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaDatos\obj\Debug\CapaDatos.pdb

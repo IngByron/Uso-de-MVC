@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Documents\C# Programs\ProyectoEnCapasFormulario\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
